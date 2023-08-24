@@ -26,3 +26,9 @@ Trasformare la stringa foto in una immagine effettiva
 Organizzare i singoli membri in card/schede
 
 ## Svolgimento
+
+- ci creiamo l’array di oggetti con le informazioni fornite.
+- stampo le info di ogni membro del team
+- Stampo le stesse informazioni su DOM sottoforma di stringhe
+- trasformo le stringhe in foto in una immagine effettiva
+- organizzo i singoli membri in card/schede
